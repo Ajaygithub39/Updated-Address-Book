@@ -1,9 +1,10 @@
 Addressbook Tutorial
 ====================
 
-This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
-a fast read for learning how to get started - not an example on how application should be
-designed. Please note this example uses and requires Java 8 to work.
+
+This tutorial teaches you some of the basic concepts in Vaadin Framework using Java 6. For a modern Java 8 version see https://github.com/vaadin/addressbook/tree/master The addressbook example is meant to be 
+a fast read for learning how to get started - not an example on how applications should be
+designed.
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
